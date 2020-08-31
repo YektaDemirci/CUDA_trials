@@ -1,6 +1,6 @@
 # Explanation
 ## Introduction
-CUDA trials on Jetson TX2 device(2019 summer).
+CUDA, GPU coding trials on Jetson TX2 device(2019 summer). \
 ## Content
 * **uclu_gstreamer_view.cpp**: Real time edge detecting with basic user interface to change thresholds, uses builtin libraries of CUDA.
 * **uclu_cudaDeneme.cu**: CUDA codes used in circ_gstreamer_view.cpp
