@@ -10,8 +10,8 @@ CUDA trials on Jetson TX2 device(2019 summer).
 * **circ_CMakeLists.txt**: CMake to compile circ_gstreamer_view
 * **matrixAdd.cu**: Matrix Addition implemented on GPU, based on NVIDIA examples
 * **matrixMul.cu**: Matrix Multiplication implemented on GPU, based on NVIDIA examples \
-Dogukan Benli <dogukan.benli@gmail.com> [mailto](mailto:dogukan.benli@gmail.com)
-Yekta Demirci <yektademirci@hotmail.com> [mailto](mailto:yektademirci@hotmail.com)
+Dogukan Benli <dogukan.benli@gmail.com> \
+Yekta Demirci <yektademirci@hotmail.com> 
 
 
 
